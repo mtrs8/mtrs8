@@ -9,7 +9,6 @@
 
 :zap: Back-end Developer
 
-:octocat: Follow me!
 
 
 
