@@ -9,13 +9,9 @@
 
 :zap: Back-end Developer
 
-<code>
- <div display="flex"  justify-content="space-beetwen">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtrs8&theme=default&show_icons=true" alt="Matheus Stats" />
+[![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtrs8)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrs8&hide=html&layout=compact&theme=default" />
-</div>
-</code>
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtrs8&hide=contribs,prs)
 
 
 ![](https://komarev.com/ghpvc/?username=mtrs8&color=006bed)
