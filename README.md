@@ -9,7 +9,8 @@
 
 :zap: Back-end Developer
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=radical)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=radical) [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtrs8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![](https://komarev.com/ghpvc/?username=mtrs8&color=006bed)
