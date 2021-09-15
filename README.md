@@ -7,8 +7,6 @@
 
 :iphone: Mobile Programming Enthusiast
 
-:zap: Back-end Developer
-
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=radical) 
 
 ![](https://komarev.com/ghpvc/?username=mtrs8&color=006bed)
