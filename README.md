@@ -5,9 +5,9 @@
 
 :construction: Estudando Flutter e Java.
 
-:card_index: Trabalhando como Desenvolvedor Jr. na [![Computação Brasil](http://computacaobrasil.com.br/)].
+:card_index: Trabalhando como Desenvolvedor Jr. na Computação Brasil.
 
-:books: Análise e Desenvolvimento de Sistemas - [![IFBA](https://portal.ifba.edu.br/salvador)]. 
+:books: Análise e Desenvolvimento de Sistemas - IFBA. 
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=radical) 
 
