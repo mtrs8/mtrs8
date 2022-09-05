@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus8/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr634580@gmail.com)](mailto:mr634580@gmail.com) [![Twitter Badge](https://img.shields.io/twitter/follow/mtrs8_?style=flat-square)](https://twitter.com/mtrs8_)
 
-:construction: Visual Basic, C# (VB.NET e .NET)
+:construction: Visual Basic, C# (.NET)
 
 :card_index: Trabalhando como Desenvolvedor Jr. em ACP Group (Sefaz SSA).
 
