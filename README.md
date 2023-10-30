@@ -5,7 +5,7 @@
 
 :construction: Visual Basic, C# (.NET)
 
-:card_index: Trabalhando como Desenvolvedor Jr. em ACP Group (Sefaz SSA).
+:card_index: Analista Pleno em ACP Group (Sefaz SSA).
 
 :books: Análise e Desenvolvimento de Sistemas - IFBA. 
 
