@@ -7,7 +7,7 @@
 
 :card_index: Software Enginner Mid at Ciberian Tecnologias - SEFAZ-PMS.
 
-:books: Graduate at Software Enginner at Federal Instute of Bahia - IFBA. 
+:books: Graduate at Software Enginner from the Federal Instute of Bahia - IFBA. 
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=radical) 
 
