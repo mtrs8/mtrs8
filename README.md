@@ -7,11 +7,11 @@
 
 :card_index: Software Enginner Mid at Ciberian Tecnologias - SEFAZ-PMS.
 
-:books: Graduate at Software Enginner from the Federal Instute of Bahia - IFBA. 
+:books: Graduate at Software Enginner from the Federal Institute of Bahia - IFBA. 
 
-<div align="center">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrs8&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrs8&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
 
