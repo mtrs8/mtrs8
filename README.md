@@ -9,9 +9,10 @@
 
 :books: Graduate at Software Enginner from the Federal Instute of Bahia - IFBA. 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=radical) 
-
-![](https://komarev.com/ghpvc/?username=mtrs8&color=006bed)
+<div align="center">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrs8&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
+</div>
 
 
 
