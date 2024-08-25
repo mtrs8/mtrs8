@@ -16,7 +16,6 @@ Hi, I'm Matheus Rodrigues.
 🚀 .NET with C# and VB; HTML, CSS and JavaScript; ASP.NET and ASP Classic; Flutter and Dart; Python with Django; Oracle PLSQL, MySQL, NoSQL, CI/CD with Jenkins;
     Scrum, Kanban and Agile Methodology; API REST with JSON and SOAP with XML; WebServices and Windows Services; Git, Github, Gitlab; SVN, TortoiseSVN;
     
-
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtrs8&layout=compact&hide_progress=false&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mtrs8&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
