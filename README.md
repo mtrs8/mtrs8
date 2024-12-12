@@ -13,7 +13,7 @@
 
 📚 I'm current learning architectural patterns, clean code and clean archtecture.
 
-🚀 .NET with C# and VB; HTML, CSS and JavaScript; ASP.NET and ASP Classic; Flutter and Dart; Python with Django; Oracle PLSQL, MySQL, NoSQL, CI/CD with Jenkins;
+🚀 .NET with C# and VB; HTML, CSS, JavaScript; NodeJS with TypeScript; ASP.NET and ASP Classic; Flutter and Dart; Python with Django; Oracle PLSQL, MySQL, NoSQL, CI/CD with Jenkins;
     Scrum, Kanban and Agile Methodology; API REST with JSON and SOAP with XML; WebServices and Windows Services; Git, Github, Gitlab; SVN, TortoiseSVN;
     
 <div align="left">
